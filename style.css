@@ -114,19 +114,4 @@ button.editar:hover {
    color : pink;
 }
 @media screen and (max-width: 600px) {
-    section {
-        width: 90%;
-        margin: 20px auto;
-        padding: auto;
-    }
-    body{
-        font-size: 14px;
-    }
-    img{
-        width: 100%;
-    }
- 
-    footer{
-        display: none;
-    }
-}
+  
